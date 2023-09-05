@@ -8,7 +8,6 @@
 #' @return Text string with praise
 #' @export
 #'
-#'
 #' @examples
 #' praise(name = "Steph", punctuation = "!")
 praise <- function(name, punctuation = "!"){
