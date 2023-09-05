@@ -9,6 +9,7 @@
 #' @export
 #'
 #'
+#'
 #' @examples
 #' praise(name = "Steph", punctuation = "!")
 praise <- function(name, punctuation = "!"){
